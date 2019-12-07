@@ -1,6 +1,6 @@
 # terraform-aws-iam-account
 
-Configure account alias and CIS-compliant password policy.
+Configure AWS account alias and CIS-compliant password policy.
 
 ## Password policy
 
